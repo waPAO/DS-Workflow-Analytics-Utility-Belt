@@ -6,9 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 
 # Create and Read a Dataset Helper
 def readDataset(path):
-  DATAPATH = "penguins_simplified.csv"
-
-  df = pd.read_csv(DATAPATH)
+  df = pd.read_csv(path)
   dataset = df.copy()
   dataset.info()
 
