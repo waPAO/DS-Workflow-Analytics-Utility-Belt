@@ -1,4 +1,7 @@
-# THE ALL IN ONE DATA SCIENCE UTILITY BELT FOR DS NOOBS LIKE ME
+<h1 align="center">
+THE ALL IN ONE DATA SCIENCE UTILITY BELT FOR DS NOOBS LIKE ME
+</h1>
+
 ## Prototypic Engines
 * **Analysis Engine**: Contains and allows for most of the basic steps and setup of a dataset. You will be able to have access to dataset features (via OOP attributes) and custom dataset functions like being able to and describe null data, create data dictionaries, and display reference tables.
 
