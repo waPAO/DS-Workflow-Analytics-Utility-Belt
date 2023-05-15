@@ -1,3 +1,4 @@
+## Understanding Data Science and Statistical Ideas
 * Data Science: The study of data in short, but moreso the ability to use and create techniques that allow you to extract information (significant or not) from small to large pieces of data.
 * Data Analysis: The process of evaluating and understanding data through statistical and logical techniques in order to represent these discoveries though visualiztions.
 * Exploratory Data Analysis (EDA): Exploratory Data Anlysis is a way of summarizing main points and characteristics of datasets through evaluations of the data and simple visualizations.
